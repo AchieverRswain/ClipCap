@@ -11,6 +11,11 @@ This project is an advanced **AI-powered image caption generator** that combines
 ##Results images : 
 
 
+### Example 1  
+**Input Image:**  
+![Input Image](results/![WhatsApp Image 2025-04-02 at 15 36 19 (1)](https://github.com/user-attachments/assets/35d93892-e5c0-4f86-9837-7da359aa3579)
+.png)  
+
 
 
 
