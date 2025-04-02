@@ -16,9 +16,15 @@ This project is an advanced **AI-powered image caption generator** that combines
 ![Input Image](results/![WhatsApp Image 2025-04-02 at 15 36 19 (1)](https://github.com/user-attachments/assets/35d93892-e5c0-4f86-9837-7da359aa3579)
 .png)  
 
+### Example 2 
+**Input Image:**  
+![Input Image](results/![WhatsApp Image 2025-04-02 at 15 36 19](https://github.com/user-attachments/assets/f46fe0cd-ab40-4409-9cde-453ad4cd9509)
+.png)  
 
-
-
+### Example 3  
+**Input Image:**  
+![Input Image](results/![WhatsApp Image 2025-04-02 at 15 36 20](https://github.com/user-attachments/assets/c850708d-6947-4bac-9e49-4aa2738de766)
+.png)  
 
 
 
